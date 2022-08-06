@@ -27,3 +27,4 @@ jobs:
         files: |
           out/*.AppImage*
         repo_token: ${{ secrets.GITHUB_TOKEN }}
+
